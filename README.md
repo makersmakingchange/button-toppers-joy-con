@@ -4,7 +4,6 @@
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/projects/button-toppers-joy-con/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/button-toppers-joy-con/)
 
 
 ## How to Obtain a Button Toppers for Joy-Con
@@ -34,9 +33,7 @@ The [Bill of Materials](/Documentation/Button_Topper_Joy_Con_BOM_V1.0.xlsx) list
 
 ### 3. Print the 3D Printable components
 
-Print the components ...
-
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
+Print the components. All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 4. Assemble the Button Toppers for Joy-Con...
 
@@ -63,7 +60,7 @@ Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_V1.0.pd
 ## Attribution
 Designers:
  - Design by [RehabEng_SCCR_HorizonHealth](https://www.printables.com/social/315606-rehabeng_sccr_horizonhealth/about) on [printables.com](https://www.printables.com/model/245468-nintendo-switch-controller-button-toppers)
- - Documentation by Neil Squire Society/Makers Making Change
+ - Documentation by Neil Squire Society / Makers Making Change
 
 
 
@@ -74,7 +71,7 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 
 
 ---
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -92,3 +89,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
